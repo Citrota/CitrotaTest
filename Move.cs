@@ -12,6 +12,7 @@ public class PersoBouge : MonoBehaviour
     public Animatoo mon_animator;
     int nb_saut;
     float test;
+    float test JeanLouis;
 
     Vector3 direction;
     Rigidbody rb;
