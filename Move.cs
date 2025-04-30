@@ -11,6 +11,7 @@ public class PersoBouge : MonoBehaviour
     public float friction;
     public Animatoo mon_animator;
     int nb_saut;
+    float test;
 
     Vector3 direction;
     Rigidbody rb;
